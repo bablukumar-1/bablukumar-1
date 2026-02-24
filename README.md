@@ -31,7 +31,8 @@
 <br>
 <div align="center">
 
-<p>💭 <strong>"अभी सीखने के चरण में हूँ, लेकिन तैयारी उस स्तर की कर रहा हूँ जहाँ AI सिर्फ प्रोजेक्ट नहीं, बल्कि समाधान बने।"</strong></p>
+<p>💭 <strong>I am currently in the learning phase, but I am preparing at a level where AI becomes not just a project, but a solution.
+</strong></p>
 
 </div>
 </td>
