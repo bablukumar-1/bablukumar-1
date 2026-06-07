@@ -21,8 +21,8 @@
 
 - 📝 Writing articles on [Hashnode](https://bablu21.hashnode.dev/)
 
-- 💼 Currently looking for job roles:  
-  **Frontend Developer | Backend Developer | Full Stack Developer**  
+- 💼 Currently I'm Working in Coloplast System PVT LTD:  
+  **Frontend Developer | Full Stack Developer**  
   *(Special interest in AI Automation)*
 
 - 📫 Contact: **bablu.devs.ai@gmail.com**
